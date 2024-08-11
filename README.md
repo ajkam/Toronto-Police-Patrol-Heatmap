@@ -1,5 +1,5 @@
 # Toronto-Police-Patrol-Heatmap
-Creating a Heatmap to plot police cars in the GTA
+Creating a Heatmap for the Toronto Police to plot police cars in the GTA
 - Link to Final Mockup: https://drive.google.com/file/d/1VGFa2iyfqBCbBQI7n2QKwBWM6WOyQyb3/view?usp=sharing
 
 This project is focused on developing a data-driven solution to enhance the Toronto Police Services' (TPS) response times to shooting incidents. The project involves analyzing historical data, building predictive models, and creating visual tools to optimize police patrols and reduce response times.
